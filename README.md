@@ -293,9 +293,6 @@ Reload `/posts/1`, and we will now see our author information.
 }
 ```
 
-And now if we reload our first post show page and click through our
-`Next` button we can see that everything works exactly the same as before!
-
 Now what if next we were building out our Author show page and wanted to
 render a list of an author's posts along with the author's information?
 
